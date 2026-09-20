@@ -1,16 +1,1 @@
-### 📑 PROGRAM INDEX
 
-Total: 27 programs
-
-| # | Date | Program Name | Topic | Source |
-|:---:|:---:|:---|:---|:---|
-| 1 | 03.08.26 | Finding factorial using recursion | Recursion | [`01_factorial_recursion.c`](./01_factorial_recursion.c) |
-| 2 | 03.08.26 | Finding type of data structure | Data Structures | [`02_data_structure_type.c`](./02_data_structure_type.c) |
-| 3 | 03.08.26 | Access and print array elements | Arrays | [`03_access_array_element.c`](./03_access_array_element.c) |
-| 4 | 03.08.26 | Traverse an array | Arrays | [`04_traverse_array.c`](./04_traverse_array.c) |
-| 5 | 10.08.26 | Insertion in an array | Arrays | [`05_array_insertion.c`](./05_array_insertion.c) |
-| 6 | 10.08.26 | Deletion in an array | Arrays | [`06_array_deletion.c`](./06_array_deletion.c) |
-| 7 | 10.08.26 | Linear search | Searching | [`07_linear_search.c`](./07_linear_search.c) |
-| 8 | 10.08.26 | Iterative binary search | Searching | [`08_iterative_binary_search.c`](./08_iterative_binary_search.c) |
-| 9 | 10.08.26 | Recursive binary search | Searching | [`09_recursive_binary_search.c`](./09_recursive_binary_search.c) |
-| 10 | 17.08.26 | Playing with pointers | Pointers | [`10_pointer_operations.c`](./10_pointer_operations.c) |
