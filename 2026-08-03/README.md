@@ -1,30 +1,31 @@
-<h1 align="center">⚔️ DSA-Tears-And-Fears ⚔️</h1>
+<h1 align="center">DSA Lab</h1>
 
 <p align="center">
-  <em>Proof that I survived my DSA lab without throwing my laptop out the window.</em>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
+  <img src="https://img.shields.io/badge/Topic-Data_Structures_%26_Algorithms-5856d6?style=for-the-badge" alt="Topic" />
+  <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge" alt="Status" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LANGUAGE-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Language" />
-  <img src="https://img.shields.io/badge/PROGRAMS-27-007ACC?style=for-the-badge" alt="Programs" />
-  <img src="https://img.shields.io/badge/LICENSE-UNLICENSE-374151?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/badge/STATUS-BARELY_SURVIVING-2ea44f?style=for-the-badge" alt="Status" />
-  <br/>
-  <img src="https://img.shields.io/badge/BRAIN_CELLS_LEFT-1-e05d44?style=for-the-badge" alt="Brain Cells Left" />
-  <img src="https://img.shields.io/badge/Build_DSA_Lab-passing-2ea44f?style=for-the-badge&logo=github-actions&logoColor=white" alt="Build Status" />
+  Welcome to the repository for Data Structures and Algorithms lab assignments.
 </p>
 
 ---
 
-### 🖥️ Boot sequence
+This collection serves as a practical exploration of fundamental computer science concepts, implemented entirely in C. By building these programs from scratch, the repository demonstrates a hands-on understanding of memory management, pointer manipulation, and algorithmic efficiency.
 
-```bash
-$ ./dsa_lab --status
-[ OK ] Loading 27 lab programs
-[ OK ] C source tree mounted
-[ OK ] Sorting algorithms detected
-[ OK ] Searching algorithms detected
-[ OK ] Pointer arithmetic survived
-[WARN] Brain cells left: 1
-[WARN] Segmentation-fault graveyard: historically active
-[ OK ] Status: Barely Surviving
+The coursework covers a progressive range of topics—starting from basic array operations and searching, moving through various sorting algorithms, and advancing into core data structures like Stacks and Queues.
+
+### 🧑‍💻 Learner Information
+
+* **Name:** Sriparna Chakrabarty
+* **Course:** Data Structures and Algorithms Lab
+* **Institution:** Adamas University
+* **Instructor:** Debjit Ghosh
+
+### 🛠️ Prerequisites
+
+To run the programs in this repository, you will need:
+
+* A C compiler (e.g., GCC - GNU Compiler Collection)
+* A terminal or command prompt
