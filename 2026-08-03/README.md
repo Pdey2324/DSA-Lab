@@ -18,7 +18,7 @@ The coursework covers a progressive range of topics—starting from basic array 
 
 ### 🧑‍💻 Learner Information
 
-* **Name:** Sriparna Chakrabarty
+* **Name:** PARTHA DEY
 * **Course:** Data Structures and Algorithms Lab
 * **Institution:** Adamas University
 * **Instructor:** Debjit Ghosh
